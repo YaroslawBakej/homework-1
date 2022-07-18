@@ -1,0 +1,140 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+.block-left {
+    margin: 0px;
+    padding: 0px;
+}
+.block-right {
+    margin-left: 40px;}
+.box {
+    height: 448px;
+    width: 430px;
+    background: #2C2D33;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+}
+.box2 {
+    height: 448px;
+    width: 430px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+}
+.txt1 {
+    padding: 28px 0px 0px 45px;
+    font: 600 16px 'Roboto';
+    color: #828282;
+}
+
+.txt2 {
+    margin: 6px 0px 0px 45px;
+    font: 500 40px 'Roboto';
+    color: #FFFFFF;
+}
+
+.txt3 {
+    margin: 6px 0px 0px 45px;
+    font: 400 14px 'Roboto';
+    color: #FFFFFF;
+}
+
+.hr {
+    background-color: #4F4F4F;
+    height: 2px;
+    width: 100%;
+    margin-top: 23px;
+    /*
+    margin-bottom: 29px;
+    */
+}
+
+.img {
+    background-image: url(./img/Group\ 2294.png);
+    Width: 365px;
+    Height: 197px;
+    margin: 18px 0px 0px 29px;
+}
+
+.block {
+    display: flex;
+}
+
+.img2 {
+    background-image: url(./img/Rectangle\ 1339.png);
+    width: 21px;
+    height: 8px;
+    margin: 44px 0px 0px 72px;
+}
+
+.txt4 {
+    margin: 44px 0px 0px 9px;
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+}
+
+.img3 {
+    background-image: url(./img/Rectangle\ 1342.png);
+    width: 21px;
+    height: 8px;
+    margin: 44px 0px 0px 13px;
+}
+
+.img4 {
+    background-image: url(./img/Rectangle\ 1343.png);
+    width: 21px;
+    height: 8px;
+    margin: 44px 0px 0px 13px;
+}
+.hr2 {
+    height: 2px;
+    width: 100%;
+    background-color: #468fd7;
+    margin-top: 27px;
+}
+
+.block {
+    display: flex;
+}
+
+.img5 {
+    background-image: url(./img/Group\ 2280.png);
+    margin: 0px 0px 4px 2px;
+    height: 278px;
+    width: 278px;
+
+}
+.img6{
+    background-image: url(./img/Rectangle\ 1339\ \(1\).png);
+    margin: 33px 0px 0px 13px;
+    height: 8px;
+    width: 21px;
+
+}
+.txt5{
+    font: 400 12px 'Inter';
+}
+.position1{
+     margin: 29px 0px 0px 9px;
+}
+.img7{
+    background-image: url(./img/Rectangle\ 1339\ \(2\).png);
+    height: 8px;
+    width: 21px;
+    margin: 17px 0px 0px 13px;
+}
+.position2{
+    margin: 17px 0px 0px 9px;
+}
+.img8{
+    background-image: url(./img/Rectangle\ 1340.png);
+    height: 8px;
+    width: 21px;
+    margin: 17px 0px 0px 13px;
+}
+.color-black {
+    color: black;
+}
